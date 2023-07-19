@@ -1,0 +1,27 @@
+body
+{
+    background-color:  rgb(1 22 39);
+}
+.container
+{
+    margin: auto;
+    padding: 20px;
+    margin-top: 160px;
+    width: 210px;
+    border-radius: 12px;
+    background-color: transparent;
+}
+.raps
+{
+   width: 60px;
+   height: 60px;
+   color:   rgb(1 22 39);
+   background-color: white;
+   font-size: 25px;
+   font-weight: bolder;
+   border-radius: 12px;
+   border: 1px solid  rgb(1 22 39);
+   padding: 10px 10px;
+   margin: 3px;
+}
+
